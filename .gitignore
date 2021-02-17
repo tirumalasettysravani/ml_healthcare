@@ -5,3 +5,4 @@ Data/movies.csv
 column_info.csv
 Data/owid-covid-data.csv
 Districts.csv
+config.py
